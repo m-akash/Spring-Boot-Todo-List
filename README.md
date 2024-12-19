@@ -46,6 +46,9 @@ Open your browser and navigate to http://localhost:8080.
 # Usage
 
 Add a Task: Enter the task details in the form and click "Add".
+
 Mark as Complete: Click the checkbox next to a task.
+
 Update Task: Click the "Edit" button, modify the details, and save.
+
 Delete Task: Click the "Delete" button for the task.
