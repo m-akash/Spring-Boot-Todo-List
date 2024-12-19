@@ -3,7 +3,6 @@
 A simple and user-friendly Todo List application built using Spring Boot, Thymeleaf, and Spring Data JPA. This project demonstrates the use of MVC architecture to manage tasks effectively.
 
 #Feature
-
 Add, update, delete, and mark tasks as completed.
 Persistent storage using Spring Data JPA and MySQL database.
 Responsive and clean UI built with Thymeleaf and Bootstrap.
