@@ -27,7 +27,7 @@ Optional: MySQL (if not using H2)
 
 # Clone the Repository
 
-https://github.com/m-akash/Spring-Boot-Todo-List.git
+git clone https://github.com/m-akash/Spring-Boot-Todo-List.git
 
 cd todo-list-springboot
 
